@@ -1,7 +1,7 @@
 function Hello() {
   return (
     <div>
-      <h1>Hi there How are you? how are uo</h1>
+      <h1>In the name of Allah</h1>
     </div>
   );
 }
