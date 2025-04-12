@@ -1,5 +1,6 @@
 function Hello({ name, message, emoji }) {
   // console.log(props);
+  console.log(name);
   // const { name, message } = props;
   return (
     <div>
