@@ -1,13 +1,9 @@
-function Hello({ name, message, emoji }) {
-  // console.log(props);
-  console.log(name);
-  // const { name, message } = props;
+function Hello(props) {
+  console.log(props);
   return (
     <div>
       <h1>
-        {message}
-        {emoji}
-        {name}
+        {props.message} {props.name} {props.emoji}
       </h1>
     </div>
   );
