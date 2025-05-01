@@ -1,5 +1,4 @@
 function Hello(props) {
-  console.log(props);
   return (
     <div>
       <h1>
