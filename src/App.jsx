@@ -5,7 +5,7 @@ function App() {
     name: "Mohammad Ashraf",
     message: "Hi I love you",
     emoji: "👋",
-    seatNumbers: [1, 5, 8],
+    seatNumbers: [1, 5, 8, 10, 20],
   };
   return (
     <div className="App">
