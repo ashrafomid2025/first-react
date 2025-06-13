@@ -3,7 +3,7 @@ function Hello(props) {
     <>
       <h1>
         {props.person.name} {props.person.emoji}: {props.person.message}- your
-        seatnumbers goes like this {props.person.seatNumbers}
+        here is the seat number stored in array: {props.person.seatNumbers}
       </h1>
     </>
   );
