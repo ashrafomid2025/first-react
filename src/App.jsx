@@ -3,7 +3,7 @@ import Hello from "../src/components/Hello";
 function App() {
   const person = {
     name: "Mohammad Ashraf",
-    message: "Hi I love you",
+    message: "Hi there how are you doing?",
     emoji: "👋",
     seatNumbers: [1, 5, 8, 10, 20],
   };
